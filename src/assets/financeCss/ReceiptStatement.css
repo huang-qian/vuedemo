@@ -1,0 +1,44 @@
+.big_div{
+	font-size: 14px;
+}
+
+.big_div .rec_div {
+	float: left;
+	width: 500px;
+	line-height: 50px;
+	height: 50px;
+	/* background: #00FF00; */
+	padding-left: 20px;
+}
+
+.big_div .el-button {
+	border: none;
+	width: 50px;
+}
+
+.big_div .addClass {
+	margin-left: -10px;
+}
+
+.big_div .addClass1 {
+	width: 80px;
+}
+
+.big_div .el-table {
+	width: 100%;
+
+}
+
+.big_div .data_div {
+	/* padding-left: 20px; */
+	margin: 0 auto;
+	width: 95%;
+}
+
+.big_div .block {
+	line-height: 50px;
+	height: 50px;
+	/* border: 1px solid; */
+	margin-right: 16px;
+	float: right;
+}
